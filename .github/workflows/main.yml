@@ -1,4 +1,4 @@
-name: API Automation Testing
+name: JoGo main
 
 on:
   push:
